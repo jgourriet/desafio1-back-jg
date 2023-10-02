@@ -1,3 +1,5 @@
+//Clases con ECMAScript y ECMAScript avanzado
+
 class ProductManager {
     constructor() {
         this.products = [];
